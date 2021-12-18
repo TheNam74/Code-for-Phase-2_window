@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddPrefixOperation", "AddPrefixOperation\AddPrefixOperation.csproj", "{7A6D24A9-D704-45F7-AC31-D0D033CFCA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6D24A9-D704-45F7-AC31-D0D033CFCA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6D24A9-D704-45F7-AC31-D0D033CFCA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6D24A9-D704-45F7-AC31-D0D033CFCA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6D24A9-D704-45F7-AC31-D0D033CFCA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B7C4B54-F75B-4E7A-86D4-F19F9BF1958A}
+	EndGlobalSection
+EndGlobal

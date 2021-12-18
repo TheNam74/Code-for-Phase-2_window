@@ -1,0 +1,12 @@
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\bin\Debug\net5.0-windows\Contract.deps.json
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\bin\Debug\net5.0-windows\ref\Contract.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\obj\Debug\net5.0-windows\Contract.csproj.AssemblyReference.cache
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\obj\Debug\net5.0-windows\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\obj\Debug\net5.0-windows\Contract.AssemblyInfoInputs.cache
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\obj\Debug\net5.0-windows\Contract.AssemblyInfo.cs
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\obj\Debug\net5.0-windows\Contract.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\obj\Debug\net5.0-windows\Contract.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\obj\Debug\net5.0-windows\ref\Contract.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Contract\obj\Debug\net5.0-windows\Contract.pdb

@@ -1,0 +1,30 @@
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.csproj.AssemblyReference.cache
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename_MarkupCompile.cache
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename_MarkupCompile.lref
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\Batch Rename.exe
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\Batch Rename.deps.json
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\Batch Rename.runtimeconfig.json
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\Batch Rename.runtimeconfig.dev.json
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\Batch Rename.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\ref\Batch Rename.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\Batch Rename.pdb
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\Contract.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\ReplaceOperation.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\Contract.pdb
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\bin\Debug\net5.0-windows\ReplaceOperation.pdb
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\App.baml
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.g.resources
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.AssemblyInfoInputs.cache
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.AssemblyInfo.cs
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.csproj.CopyComplete
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\ref\Batch Rename.dll
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.pdb
+C:\Users\ThinkPro\source\repos\Batch Rename\Batch Rename\obj\Debug\net5.0-windows\Batch Rename.genruntimeconfig.cache
